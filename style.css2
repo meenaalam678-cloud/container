@@ -1,0 +1,7 @@
+.container{
+    margin:200px;
+    padding:150px;
+    magin-right:150px;
+    margin-left:80px;
+
+}
